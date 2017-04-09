@@ -12,13 +12,13 @@ converted to pdf format
 ### Files
 ```
 .h files are the header files made and .cpp contain functions
-ques1.cpp and ques2_main.cpp contain the final solutions of both the questions
 .txt files contain the output,the randomly generated list of the input parameters
 .pdf is for the documentation and Class diagram
 ```
 ### For Execution 
 ```
-To  execute:
+
+To  execute Question1 and Question2:
       g++ -c girl.cpp
       g++ -c boy.cpp
       g++ -c couple.cpp
@@ -33,6 +33,48 @@ To  execute:
  g++ ques2_main.cpp ritika_file.a
  ./a.out
  and input the value of k
- Output will be there in couple.txt and happ_comp_gift
+ Output will be there in couple.txt and happ_comp_gift.
+
+For all the questions from three to ten 
+		The List of couples , randomly generated girls, boys and gifts should exist That Is 
+		#### Question1 should be complied once before following the execution steps of any of the below questions. 
+ Question3 :
+ 	For compilation-    g++ ques3.cpp inh_pair.cpp couple.cpp boy.cpp girl.cpp Fill.cpp
+ 	For execution- ./a.out
+ 	Give the value of k as input.
+ 	Output-  happ_comp.txt
+
+ Question4 :
+ 	For compilation- g++ ques4.cpp inh_pair.cpp couple.cpp boy.cpp girl.cpp Fill.cpp  
+ 	For execution-   ./a.out
+ 	Give the value of k as input.
+ 	Output- new_couple.txt
+
+ Question5  :
+ 	For compilation-    g++ ques5.cpp girl.cpp boy.cpp couple.cpp new_order_couple.h 
+ 	Execution-  ./a.out
+ 	Output-   order_couple.txt
+ 	For k happy couples compile and execute question2.
+
+ Question6 :
+ 	For compilation-   g++ ques6.cpp inh_pair.cpp couple.cpp boy.cpp girl.cpp Fill.cpp t_days.cpp
+ 	Execution- ./a.out
+ 	Output- ques6.txt
+
+ Question7 :
+ 	For compilation-   g++ ques7.cpp inh_pair.cpp couple.cpp boy.cpp girl.cpp Fill.cpp Sorted_Class.cpp hash.cpp
+ 	Execution-  ./a.out
+ 	Output-  Three_Ways.txt
+
+ Question8 :
+ 	For compilation-  g++ ques8.cpp make_pair.cpp NewWay.cpp girl.cpp boy.cpp couple.cpp 
+ 	For execution-  ./a.out
+ 	Output-  happ_comp_gift
+
+Question9 :
+      For Compilation-  g++ ques9.cpp secondary.cpp girl.cpp boy.cpp
+      Execution- ./a.out
+      Output-  ques9.txt and ques9_gifts.txt
+
  ```
       

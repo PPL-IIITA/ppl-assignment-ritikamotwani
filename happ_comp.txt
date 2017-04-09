@@ -1,0 +1,954 @@
+For Couple 1
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		6	237	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		42	434	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		30	459	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		9	488	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		26	519	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		8	689	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	730	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		40	945	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		38	985	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		24	1166	-1	-1	-1	-1
+
+
+ 
+ 
+ 
+For Couple 2
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		6	237	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		42	434	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		30	459	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		9	488	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		26	519	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		8	689	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	730	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		40	945	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		38	985	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		24	1166	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		28	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		45	1400	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		17	1469	-1	-1	-1	-1
+
+
+ 
+ 
+ 
+For Couple 3
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		6	237	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		42	434	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		30	459	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		9	488	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		26	519	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		8	689	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	730	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		40	945	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		38	985	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		24	1166	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		28	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		43	3025	0	2	-1	-1
+
+
+ 
+ 
+ 
+For Couple 4
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		6	237	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		42	434	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		30	459	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		9	488	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		26	519	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		8	689	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	730	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		40	945	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		38	985	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		24	1166	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		28	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		45	1400	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		43	3025	0	2	-1	-1
+
+
+ 
+ 
+ 
+For Couple 5
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		6	237	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		42	434	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		30	459	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		9	488	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		26	519	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		8	689	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	730	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		40	945	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		38	985	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		24	1166	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		28	1194	-1	-1	-1	-1
+
+
+ 
+ 
+ 
+For Couple 6
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		6	237	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		42	434	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		30	459	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		9	488	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		26	519	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		8	689	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	730	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		40	945	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		38	985	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		24	1166	-1	-1	-1	-1
+
+
+ 
+ 
+ 
+For Couple 7
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		6	237	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		42	434	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		30	459	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		9	488	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		26	519	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		8	689	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	730	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		40	945	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		38	985	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		24	1166	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		43	3025	0	2	-1	-1
+
+
+ 
+ 
+ 
+For Couple 8
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		6	237	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		42	434	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		30	459	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		9	488	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		26	519	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		8	689	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	730	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		40	945	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		38	985	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		24	1166	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		28	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		45	1400	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		17	1469	-1	-1	-1	-1
+
+
+ 
+ 
+ 
+For Couple 9
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		6	237	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		42	434	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		30	459	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		9	488	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		26	519	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		8	689	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	730	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		40	945	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		38	985	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		24	1166	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		28	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		45	1400	-1	-1	-1	-1
+
+
+ 
+ 
+ 
+For Couple 10
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		6	237	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		42	434	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		30	459	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		9	488	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		26	519	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		8	689	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	730	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		40	945	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		38	985	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		24	1166	-1	-1	-1	-1
+
+
+ 
+ 
+ 
+For Couple 11
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		6	237	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		42	434	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		30	459	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		9	488	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		26	519	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		8	689	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	730	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		40	945	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		38	985	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		24	1166	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		28	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		45	1400	-1	-1	-1	-1
+
+
+ 
+ 
+ 
+For Couple 12
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		6	237	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		42	434	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		30	459	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		9	488	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		26	519	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		8	689	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	730	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		40	945	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		38	985	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		24	1166	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		15	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		28	1194	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		45	1400	-1	-1	-1	-1
+
+Mon Apr 10 03:48:10 2017
+
+
+			Gifts are with value,price,luxuryrate,difficult,utility_value and utility_class
+		17	1469	-1	-1	-1	-1
+
+
+ 
+ 
+ 

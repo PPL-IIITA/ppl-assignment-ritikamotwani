@@ -37,7 +37,7 @@ int main()
 	/*The criteria of all the girls in choosing a boy*/
 	{
 		in=1;p=0;
-		for(j=2;j<=num_boy;j++)
+		for(j=1;j<=num_boy;j++)
 		{
 			if(b[j].committed==1||b[j].budget<g[i].maint||b[j].min_attr>g[i].attractive)
 				continue;

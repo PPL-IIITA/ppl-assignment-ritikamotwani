@@ -11,6 +11,7 @@ class Girl
 		int maint;
 		int happy;
 		int check;
+		char no[10];
 		void happiness(int total_cost,int total_value);
 		
 };

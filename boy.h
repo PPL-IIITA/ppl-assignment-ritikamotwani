@@ -13,6 +13,7 @@ class Boy
 		int budget;
 		int min_attr;
 		int happy;
+		int not_choose;
 		void happiness(int total_cost,Girl &g);
 };
 #endif
