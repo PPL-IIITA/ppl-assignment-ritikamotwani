@@ -6,8 +6,8 @@ ppl-assignment-ritikamotwani created by GitHub Classroom
 C++
 ```
 ```
-The project was made using Linux Ubuntu and the documentation was made through doxygen and latex with the class diagram
-converted to pdf format
+The project was made using Linux Ubuntu and the documentation was made through doxygen and latex and is in .pdf format. Class diagram
+in .jpg format
 ```
 ### Files
 ```
