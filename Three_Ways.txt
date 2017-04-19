@@ -1,0 +1,74 @@
+12
+The values are in the order name,type,attractiveness,intelligence,budget
+
+
+Mon Apr 10 04:06:54 2017
+
+
+gplnu 0 6 0 13592 
+
+
+Mon Apr 10 04:06:54 2017
+
+
+hznxg 2 0 10 9935 
+
+
+Mon Apr 10 04:06:54 2017
+
+
+ybrvt 2 6 2 13743 
+
+
+Mon Apr 10 04:06:54 2017
+
+
+oqono 2 6 3 12645 
+
+
+Mon Apr 10 04:06:54 2017
+
+
+dxxjy 2 2 7 12034 
+
+
+Mon Apr 10 04:06:54 2017
+
+
+ikmah 2 9 5 7176 
+
+
+Mon Apr 10 04:06:54 2017
+
+
+ptzwu 2 2 6 13987 
+
+
+Mon Apr 10 04:06:54 2017
+
+
+hkuyh 2 0 6 13659 
+
+
+Mon Apr 10 04:06:54 2017
+
+
+uewhg 2 9 8 11609 
+
+
+Mon Apr 10 04:06:54 2017
+
+
+dohaw 0 9 9 13497 
+
+
+Mon Apr 10 04:06:54 2017
+
+
+ajrdf 2 9 10 6483 
+
+
+Mon Apr 10 04:06:54 2017
+
+
+erfjj 0 10 10 7640 

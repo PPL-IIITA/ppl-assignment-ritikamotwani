@@ -1,4 +1,5 @@
 #include<iostream>
+#include<ctime>
 #include"couple.h"
 #include"gift.h"
 #include<stdlib.h>
@@ -7,11 +8,14 @@
 #include"make_pair.h"
 #include"boy.h"
 #include"girl.h"
+#include <exception>
 using namespace std;
 void Pair::input()
-// !<Reads the value from the files and sees the proper gift exchange happening //!<among the couples
+// !< Reads the value from the files and sees the proper gift exchange happening //!<among the couples
+//!< Exception Handling used for the case if the number of couples is 0 or there are no gifts .
 {
-	int num_gift,i,j,g;
+	try{
+			int num_gift,i,j,g;
 			FILE *f1,*f2;
 			f1 = fopen("gifts_l.txt","r");
 			fscanf(f1,"%d",&num_gift);
@@ -20,6 +24,8 @@ void Pair::input()
 				fscanf(f1,"%d %d %d %d %d %d %d %d\n",&gf[i].value,&gf[i].price,&gf[i].type,&gf[i].which,&gf[i].luxury_rate,&gf[i].difficulty,&gf[i].utility_value,&gf[i].utility_class);
 			f2 = fopen("couple.txt","r");
 			fscanf(f2,"%d",&k);
+			if(k == 0 && num_gift == 0)
+				throw 10;
 			for(i = 0;i < k;i++)
 			{
 				fscanf(f2,"%s %d %d %d %d %d %d",c[i].g.name,&c[i].g.committed,&c[i].g.type,&c[i].g.attractive,&c[i].g.intell_g,&c[i].g.maint,&c[i].g.check);
@@ -40,12 +46,12 @@ void Pair::input()
 				min = 0;
 				l = 1;
 				if(c[i].b.type == 0)
-					tb = c[i].g.maint + ((c[i].b.budget+c[i].g.maint)/3);
+					tb = c[i].g.maint + ((c[i].b.budget-c[i].g.maint)/3);
 				else if(c[i].b.type == 1)
 					tb = c[i].b.budget;
 				else if(c[i].b.type == 2)
 				{
-					tb = c[i].g.maint + ((c[i].b.budget+c[i].g.maint)/3);
+					tb = c[i].g.maint + ((c[i].b.budget-c[i].g.maint)/3);
 					tb1 = tb;
 				}
 				while(tb > 0)
@@ -110,7 +116,7 @@ void Pair::input()
 						{
 							if(gf[j].type == 1 &&gf[j].price<=tb2)
 							{
-								gf[j].which==1;
+								gf[j].which=1;
 								cg[i][l]=gf[j];
 								l++;
 								break;
@@ -122,7 +128,7 @@ void Pair::input()
 				for(j=0;j<num_gift;j++)
 					gf[j].which = 0;
 				printf("For Couple %d\n",i+1);
-				for(g=1;g<=l;g++)
+				for(g=1;g<l;g++)
 				{
 					time_t now = time(0);
 					char *ct = ctime(&now);
@@ -133,6 +139,12 @@ void Pair::input()
 				}
 				printf("\n \n \n \n");
 			}
+		}
+		catch(int x)
+		{
+			if(x == 10)
+				cout<<"Exception";
+		}
 }
 // !<This function finds the happiness of the couple 
 void Pair::find_happiness()

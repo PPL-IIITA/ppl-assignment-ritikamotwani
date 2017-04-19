@@ -1,0 +1,126 @@
+0  -1
+jytbs  5102
+hxmcj  5213
+eflvj  5292
+pwoap  5455
+pqxce  5983
+wisrs  6156
+ligcj  6404
+zwkuz  7732
+wdnot  7737
+sppyr  8389
+yhqnj  9047
+lkrcc  9214
+crysu  9601
+ixpqk  9708
+
+
+0   -1
+tsxqj   0
+adgyt   0
+hznxg   0
+hkuyh   0
+mhxpc   1
+szqhn   1
+ptzwu   2
+dxxjy   2
+acjkj   2
+ygxfl   3
+yhpxp   3
+ocffg   5
+lwwqg   6
+oqono   6
+ybrvt   6
+cbykk   6
+lylwk   6
+gplnu   6
+pnxgf   7
+ssrqr   7
+myado   7
+fsjfx   8
+gfhfo   8
+ajrdf   9
+dohaw   9
+iqcrs   9
+ikmah   9
+uewhg   9
+erfjj   10
+
+
+
+15
+Tue Apr 18 21:15:51 2017
+
+
+jytbs 1 1 8 3 5102 2
+hznxg 1 2 0 10 9935 1
+Tue Apr 18 21:15:51 2017
+
+
+0 1 -1 -1 1 -1 0
+0 1 -1 -1 -1 0 0
+Tue Apr 18 21:15:51 2017
+
+
+hxmcj 1 2 9 6 5213 2
+ajrdf 1 1 9 10 6483 3
+Tue Apr 18 21:15:51 2017
+
+
+ligcj 1 0 5 2 6404 1
+tsxqj 1 1 0 4 7163 3
+Tue Apr 18 21:15:51 2017
+
+
+eflvj 1 0 5 3 5292 2
+erfjj 1 0 10 10 7640 2
+Tue Apr 18 21:15:51 2017
+
+
+ixpqk 1 2 4 3 9708 1
+adgyt 1 0 0 5 10262 1
+Tue Apr 18 21:15:51 2017
+
+
+pwoap 1 0 10 0 5455 1
+ptzwu 1 2 2 6 13987 5
+Tue Apr 18 21:15:51 2017
+
+
+crysu 1 0 9 5 9601 2
+hkuyh 1 1 0 6 13659 5
+Tue Apr 18 21:15:51 2017
+
+
+pqxce 1 1 5 6 5983 0
+dohaw 1 0 9 9 13497 5
+Tue Apr 18 21:15:51 2017
+
+
+yhqnj 1 2 7 4 9047 0
+szqhn 1 0 1 5 9107 1
+Tue Apr 18 21:15:51 2017
+
+
+wisrs 1 1 5 7 6156 2
+uewhg 1 2 9 8 11609 4
+Tue Apr 18 21:15:51 2017
+
+
+lkrcc 1 1 9 9 9214 1
+dxxjy 1 2 2 7 12034 0
+Tue Apr 18 21:15:51 2017
+
+
+zwkuz 1 0 3 3 7732 2
+pnxgf 1 1 7 7 9404 3
+Tue Apr 18 21:15:51 2017
+
+
+wdnot 1 1 6 5 7737 1
+acjkj 1 1 2 3 9390 5
+Tue Apr 18 21:15:51 2017
+
+
+sppyr 1 1 2 10 8389 1
+ybrvt 1 1 6 2 13743 1
